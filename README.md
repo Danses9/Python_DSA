@@ -1,2 +1,2 @@
 # Python_DSA
-Aprendendo python para data science
+Aprendendo Python com foco em Data Science.
